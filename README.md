@@ -1,2 +1,1 @@
-# cse124-project1
-Basic skeleton code for CSE 124's Project 1
+A basic webserver for handling HTTP v1.1 requests using unix-style C sockets.
